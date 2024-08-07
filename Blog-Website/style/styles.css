@@ -1,0 +1,24 @@
+#light-nav-bar {
+  width: 100%;
+  height: 200px;
+  background-color: lightgrey;
+}
+
+#form-style {
+  width: 400px;
+  margin: auto;
+  margin-top: 250px;
+}
+
+#categoryStyle {
+  width: 100%;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+
+.paginationCentering {
+  text-align: center;
+}
